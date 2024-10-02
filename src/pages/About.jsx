@@ -10,8 +10,8 @@ export default function AboutPage() {
           className="mb-4 rounded-full size-20"
           src={AssetImage}
           alt="avatar"
-          width={70}
-          height={70}
+          width={100}
+          height={100}
         />
       </div>
 

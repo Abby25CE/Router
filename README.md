@@ -1,8 +1,10 @@
+-[] Instalar el linter
+-[] Crear una forma de hacerr MPA
 -[] Crea una forma de hacer SPAs
 -[] Poder navegar entre paginas con el boton de atras
 -[] Crear componente Link para hacerlo declarativo
 -[] Crear el componente Router para hacerlo declarativo
--[] Soportar rutas por defecto (484)
+-[] Soportar rutas por defecto (404)
 -[] Sopotar rutas con parametros
 -[] Componente <Router /> para hacerlo declarativo
 -[] Lazy Loading de las rutas
